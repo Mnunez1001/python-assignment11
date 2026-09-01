@@ -1,0 +1,21 @@
+Reflection
+
+I think being able to use both static and interactive visualizations is very useful.
+In situations where you only need a quick graph to make data easier to understand, a static visualization can be simple, clear, and effective. 
+However, when you need to analyze the data more deeply or spend more time exploring it, interactive visualizations can be much more useful. 
+They are especially helpful when reviewing data with coworkers, managers, or other people who may want to explore different parts of the information.
+
+Dashboards are also very useful for real-time data exploration because they can bring multiple 
+pieces of information together in one place and allow users to quickly understand what is happening.
+Instead of looking through several reports or files, a dashboard can display important metrics, trends, 
+and visualizations at the same time. Interactive dashboards can also allow users to filter or explore the data
+based on what they are most interested in, which can make decision-making faster and more efficient.
+
+Interactive tools such as Plotly can improve data communication in professional settings because 
+they allow people to explore a visualization instead of only looking at a static image. For example,
+during a presentation to managers or a board of executives, someone could use an interactive graph 
+to show sales information from the previous month or year and then zoom in on a specific period or 
+isolate a particular category. This makes the presentation more flexible, informative, 
+and professional. Both Matplotlib and Plotly are useful visualization tools, although technical 
+issues such as computer security settings or package compatibility can sometimes cause problems.
+Learning how to troubleshoot these issues is also an important part of working with data tools.
